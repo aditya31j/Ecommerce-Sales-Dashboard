@@ -15,7 +15,7 @@ This repository contains an **HR Analytics Dashboard** created using **Microsoft
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](SalesDashboardscreenshot.png)  
+![Dashboard Preview](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/Sales%20Dashboard%20screenshot.png)  
 
 ---
 

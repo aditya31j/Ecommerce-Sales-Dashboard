@@ -35,7 +35,7 @@ This repository contains an **HR Analytics Dashboard** created using **Microsoft
 
 ## 🌐 Live Dashboard
 
-> [Click here to view the live Power BI dashboard](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/Sales%20Dashboard%20screenshot.png)
+> [Click here to view the live Power BI dashboard](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/Sales%20Dashboard.pbix)
 
 *Note: This is hosted using Power BI Service’s public “Publish to web” feature.*
 

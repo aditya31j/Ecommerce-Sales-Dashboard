@@ -33,7 +33,7 @@ It’s ideal for **business analysts, sales managers, and decision-makers** who 
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/Sales%20Dashboard%20screenshot.png)  
+![Dashboard Preview](https://github.com/aditya31j/Ecommerce-Sales-Dashboard/blob/main/Sales%20Dashboard%20screenshot.png)  
 
 ---
 

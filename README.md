@@ -53,7 +53,7 @@ It’s ideal for **business analysts, sales managers, and decision-makers** who 
 
 ## 🌐 Live Dashboard
 
-> [Click here to view the live Power BI dashboard](https://github.com/aditya31j/HR-Analytics-Dashboard/blob/main/Sales%20Dashboard.pbix)
+> [Click here to view the live Power BI dashboard](https://github.com/aditya31j/Ecommerce-Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)
 
 *Note: This is hosted using Power BI Service’s public “Publish to web” feature.*
 
